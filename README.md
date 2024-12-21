@@ -1,5 +1,7 @@
+## Live Project Link
+Link - [codeant-ai-pi.vercel.app](https://codeant-ai-pi.vercel.app)
+
 # CodeAnt AI
-Live Project Link - codeant-ai-pi.vercel.app
 
 I have created an innovative web application as a part of 
 CodeAnt AI assignment and I have designed to provide a seamless 
